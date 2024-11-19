@@ -1,6 +1,6 @@
 # About
 My site facts
-Here’s a basic README template for your `ABOUT` repository that you can fill in and expand as needed:
+ `ABOUT` :
 
 ---
 
@@ -55,7 +55,7 @@ Here’s a list of the technologies I use, represented with Shields.io badges:
 ---
 
 ## 🌟 About Me
-Feel free to customize this section to include your bio, interests, and goals.
+...bio, interests, and goals.
 
 ---
 
@@ -64,4 +64,4 @@ Add your contact information here (email, LinkedIn, Twitter, etc.).
 
 ---
 
-This README is intentionally basic to give you a starting point. You can expand it further by adding sections such as "Projects", "Achievements", or "Contributions". Let me know if you'd like help customizing or extending this!
+This README is in progress!
